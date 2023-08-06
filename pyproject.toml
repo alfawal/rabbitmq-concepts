@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "rabbitmq-concepts"
+description = "RabbitMQ Concepts"
+version = "0.1.0"
+authors = ["Abdulrahman Alfawal <contact@alfawal.dev>"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pika = "^1.3.2"
